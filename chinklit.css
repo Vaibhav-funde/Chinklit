@@ -1,0 +1,25 @@
+.Nav-bar{
+background-color: rgb(254, 188, 57);
+}
+.img-first img{
+    width: 100%;
+}
+.card{
+    display: flex;
+    border: solid black;
+}
+.cards-d{
+    display: flex;
+    justify-content: center;
+    
+}
+.card .one-c{
+    margin: 20px;
+    padding: 20px;
+}
+
+.img-fluid{
+    height: 100px;
+    width: 100px;
+    margin: auto auto 30px; 
+}
